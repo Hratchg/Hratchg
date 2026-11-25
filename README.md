@@ -1,4 +1,4 @@
-### Hi, I'm Hratch 👋
+### Hi, I'm Hratch 
 
 New-grad software engineer (UCSB Data Science & Statistics '26). I build full-stack products end to end: data pipelines, APIs and frontends people actually use. Currently a Full Stack Developer Intern at Altheros Capital.
 
